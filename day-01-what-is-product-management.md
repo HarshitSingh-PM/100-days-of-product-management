@@ -130,11 +130,4 @@
 - The core of PM — understanding humans, making tradeoffs, driving alignment — remains deeply human
 - AI raises the floor (anyone can build) but also raises the bar (users expect more)
 
----
 
-## Suggested Format for Publishing
-
-- **Hook**: Start with a relatable scenario — "Everyone has opinions about what a PM does. Here's what it actually is."
-- **Length**: ~1200-1500 words or a carousel (8-12 slides) if posting on LinkedIn/Instagram
-- **Visuals**: The Business-Tech-UX Venn diagram, the roles comparison table, a before/after of PM workflows with AI
-- **CTA**: "Tomorrow in Day 2, we'll dive into [next topic]. Follow along for the full 100 days."
